@@ -10,7 +10,7 @@
 
 O Rich Presence do discord é uma maneira de criar seu próprio status personalizado na hora de jogar um game. É muito desconfortável você esta jogando um game que gosta tanto porem ele não é reconhecido no seu status, só fica uma imagem com uma interrogação falando que você esta jogando aquele jogo.
 
-<div display="inline">
+<div align="center" display="inline">
     <img src="https://ik.imagekit.io/m10th15us/sem-status_KIQE6YqDha.png">
     <img width="231" height="88" src="https://ik.imagekit.io/m10th15us/com-status_SWtYMlI67.gif">
 </div>
