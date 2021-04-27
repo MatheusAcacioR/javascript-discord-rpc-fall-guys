@@ -34,7 +34,7 @@ Vamos iniciar o nosso projeto. Dentro do diretório do projeto, abra o terminal 
 npm init -i
 ```
 
-Agora que o projeto foi criado vamos instalar a biblioteca do discord rich presence.
+Agora que o projeto foi criado vamos instalar a biblioteca `discord-rich-presence`.
 
 ```bash
 npm install discord-rich-presence
